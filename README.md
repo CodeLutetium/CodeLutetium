@@ -36,7 +36,7 @@ Brief description of Project 3.
 
 ## 🤝 Connect with Me
 
-- LinkedIn: [Koh Mingyang](h[ttps://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/in/koh-mingyang-895964229/))
+- LinkedIn: [Koh Mingyang](https://www.linkedin.com/in/koh-mingyang-895964229/)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together! 🚀
 
