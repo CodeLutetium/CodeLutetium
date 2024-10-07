@@ -6,13 +6,13 @@ I'm a Year 3 Renaissance Engineering student at Nanyang Technological University
 
 - 🎓 Currently pursuing a degree in Renaissance Engineering (with a specialisation in Computer Science) at NTU.
 - 💡 Passionate about exploring new technologies and finding innovative solutions to real-world problems.
-- ✈️ Currently on exchange in the University of Waterloo, Canada.
+- 💻 Working on projects as a Software Engineering Intern in Credit Agricole
 
 ## 🔧 Skills
 
-- Programming Languages: Python, Java, C
+- Programming Languages: Python, Rust, Java, C
 - Web Technologies: HTML, CSS, JavaScript, React
-- Database Management: MySQL, MongoDB
+- Database Management: MySQL, MongoDB, Postgres
 - Tools and Frameworks: Git, GitHub, VS Code
 
 <!--
