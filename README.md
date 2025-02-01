@@ -1,12 +1,12 @@
 # Hi there, I'm Mingyang! 👋
 
-I'm a Year 3 Renaissance Engineering student at Nanyang Technological University (NTU) specializing in Computer Science. Welcome to my GitHub profile, where I showcase my projects and share my passion for engineering, technology, and innovation.
+I'm a Year 4 Renaissance Engineering student at Nanyang Technological University (NTU) specializing in Computer Science. Welcome to my GitHub profile, where I showcase my projects and share my passion for engineering, technology, and innovation.
 
 ## 🚀 About Me
 
 - 🎓 Currently pursuing a degree in Renaissance Engineering (with a specialisation in Computer Science) at NTU.
 - 💡 Passionate about exploring new technologies and finding innovative solutions to real-world problems.
-- 💻 Working on projects as a Software Engineering Intern in Credit Agricole
+- 💻 Working on cloud infrastructure as a Site Reliability Engineering Intern in Monetary Authority of Singapore (MAS)
 
 ## 🔧 Skills
 
