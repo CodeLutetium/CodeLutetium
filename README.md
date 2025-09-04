@@ -1,16 +1,16 @@
 # Hi there, I'm Mingyang! 👋
 
-I'm a Year 4 Renaissance Engineering student at Nanyang Technological University (NTU) specializing in Computer Science. Welcome to my GitHub profile, where I showcase my projects and share my passion for engineering, technology, and innovation.
+I'm a Final Year Renaissance Engineering student at Nanyang Technological University (NTU) specializing in Computer Science. Welcome to my GitHub profile, where I showcase my projects and share my passion for engineering, technology, and innovation.
 
 ## 🚀 About Me
 
 - 🎓 Currently pursuing a degree in Renaissance Engineering (with a specialisation in Computer Science) at NTU.
 - 💡 Passionate about exploring new technologies and finding innovative solutions to real-world problems.
-- 💻 Working on cloud infrastructure as a Site Reliability Engineering Intern in Monetary Authority of Singapore (MAS)
+- 💻 Past Experiences: SRE in Monetary Authority of Singapore (MAS), SWE in Credit Agricole
 
 ## 🔧 Skills
 
-- Programming Languages: Python, Rust, Java, C
+- Programming Languages: Go, Python, Rust, Java, C
 - Web Technologies: HTML, CSS, JavaScript, React
 - Database Management: MySQL, MongoDB, Postgres
 - Tools and Frameworks: Git, GitHub, VS Code
@@ -36,7 +36,7 @@ Brief description of Project 3.
 
 ## 🤝 Connect with Me
 
-- LinkedIn: [Koh Mingyang](https://www.linkedin.com/in/koh-mingyang-895964229/)
+- LinkedIn: [Koh Mingyang](https://www.linkedin.com/in/koh-mingyang)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together! 🚀
 
